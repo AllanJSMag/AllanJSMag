@@ -1,5 +1,4 @@
-### *Olá! Sou o Allan Magalhães!* 👋
-#
+### <h1>*Olá! Sou Allan Magalhães!* 👋</h1> 
 <ul>
     <li>👨‍🎓 Engenheiro mecânico por formação. Em transição para a área de tecnologia;</li>
     <li>💼 Dev Full Stack em formação pelo <a href="https://www.hiringcoders.com.br/" target="blank">Hiring Coders</a>;</li>
@@ -19,7 +18,7 @@
 #
 
 <div style="display: inline-block">
-    <a href="https://www.instagram.com/allanjose.magalhaes/"  target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
-    <a href="https://www.linkedin.com/in/allan-magalh%C3%A3es/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>   
-    <a href="mailto:allanjomagsm@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+    <a href="https://www.instagram.com/allanjose.magalhaes/"  target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+    <a href="https://www.linkedin.com/in/allan-magalh%C3%A3es/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
+    <a href="mailto:allanjomagsm@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 </div>
